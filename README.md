@@ -1,13 +1,5 @@
 # 🚀 Hi, I'm Vinicius Oliveira
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)
-[![GitHub followers](https://img.shields.io/github/followers/Vih6460?style=social)](https://github.com)
-
-</div>
-
 ---
 
 ## 👋 About Me
@@ -16,7 +8,7 @@ Full-Stack Software Engineer with **5+ years of experience** building scalable a
 
 I focus on delivering **real business impact**, not just code.
 
-* 🌎 Working with international teams (Canada & US)
+* 🌎 Working with international teams (🇨🇦🇺🇸)
 * 💻 Specialized in modern web technologies
 * ⚡ Performance & scalability oriented
 * 🧠 Strong product and problem-solving mindset
@@ -55,6 +47,7 @@ I focus on delivering **real business impact**, not just code.
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 
@@ -62,6 +55,7 @@ I focus on delivering **real business impact**, not just code.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase%20Realtime%20Database-FFCA28?style=for-the-badge\&logo=firebase)
 
 ### DevOps & Tools
 
@@ -70,45 +64,13 @@ I focus on delivering **real business impact**, not just code.
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vih6460\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vih6460\&layout=compact\&theme=radical)
-
-</div>
-
----
-
-## 🧪 Current Work
-
-Currently building and scaling production systems for international clients:
-
-* ⚙️ CMS & dynamic content systems
-* 📍 Google Maps integrations & location services
-* ⭐ Reviews systems (APIs + fallback strategies)
-* 🎨 Premium UI (Liquid Glass design system)
-* 🚀 SEO automation & performance optimization
-
----
-
-## 🎯 What I'm Looking For
-
-* Remote opportunities (US / Canada / Global)
-* High-impact engineering teams
-* Challenging technical problems
-* Product-focused environments
 
 ---
 
 ## 📫 Contact
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/marcosvinicius2046/](https://www.linkedin.com/in/marcosvinicius2046/)
-* 📧 Email: [viniciuz6460@gmail.com](mailto:viniciuz6460@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/marcosvinicius2046/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:viniciuz6460@gmail.com)
 
 ---
 
