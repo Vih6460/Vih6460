@@ -51,6 +51,11 @@ I focus on delivering **real business impact**, not just code.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 
+### Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift)
+
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
