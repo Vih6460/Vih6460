@@ -77,6 +77,7 @@ I focus on delivering **real business impact**, not just code.
 ## ⚡ Philosophy
 
 > Trust the process!
+
 > I don’t just write code — I build systems that scale, perform, and generate real results.
 
 ---
